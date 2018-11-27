@@ -17,13 +17,15 @@ The hardware can be bought in several places, the most convenient place for me i
 <br>
 
 <h3>Setup your computer</h3>
-The bare minimum to get these projects up and running is basiaclly any IKEA compter.<br>
-No drivers or software has to be installed, just bring your computer.<br>
+<h4> IKEA PC with Windows 10</h4>
+You can just bring your computer.<br>
+If you want to be extra prepared, you can download a <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/portamu_1.0.1_win64.zip">portable version</a> of the editor that we will use to code, that can be run without installing.<br>
+<h4>IKEA Mac</h4>
+We haven't tested this yet.<br>
+For the best experience, you probably would like to get <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg">the Mac version</a> of the editor installed, you might need help from IT Helpdesk.<br>
+<h4>IKEA PC with Windows 7</a>
+For the best experience you need to install <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe">the PC version</a> of the editor and  <a href="https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.3.3/adafruit_drivers_2.3.3.0.exe">these drivers</a><br>
 <br>
-However, for the best experience you might want to install a code editor.<br>
-There are both <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg">Mac</a> and <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe">PC</a> versions.<br>
-If your computer is a PC, you might also want to install <a href="https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.3.3/adafruit_drivers_2.3.3.0.exe">these drivers</a>.<br>
-On a PC there is also the option to download a <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/portamu_1.0.1_win64.zip">portable version</a> of the editor that can be run without installing.<br>
 <br>
 The plan is that we add simpler instructions here, for our specific setup.<br>
 <br>
