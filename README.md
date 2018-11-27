@@ -23,7 +23,7 @@ If you want to be extra prepared, you can download a <a href="https://github.com
 <h4>IKEA Mac</h4>
 We haven't tested this yet.<br>
 For the best experience, you probably would like to get <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg">the Mac version</a> of the editor installed, you might need help from IT Helpdesk.<br>
-<h4>IKEA PC with Windows 7</a>
+<h4>IKEA PC with Windows 7</h4>
 For the best experience you need to install <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe">the PC version</a> of the editor and  <a href="https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.3.3/adafruit_drivers_2.3.3.0.exe">these drivers</a><br>
 <br>
 <br>
