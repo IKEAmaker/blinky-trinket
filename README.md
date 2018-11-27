@@ -22,9 +22,9 @@ You can just bring your computer.<br>
 If you want to be extra prepared, you can download a <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/portamu_1.0.1_win64.zip">portable version</a> of the editor that we will use to code, that can be run without installing.<br>
 <h4>IKEA Mac</h4>
 We haven't tested this yet.<br>
-For the best experience, you probably would like to get <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg">the Mac version</a> of the editor installed, you might need help from IT Helpdesk.<br>
+For the best experience, you probably would like to get <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg">the Mac version</a> of the editor installed. You might need help from IT Helpdesk to get that done.<br>
 <h4>IKEA PC with Windows 7</h4>
-For the best experience you need to install <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe">the PC version</a> of the editor and  <a href="https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.3.3/adafruit_drivers_2.3.3.0.exe">these drivers</a><br>
+For the best experience you need to install <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe">the PC version</a> of the editor and  <a href="https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.3.3/adafruit_drivers_2.3.3.0.exe">these drivers</a> You might need help from IT Helpdesk to get that done.<br>
 <br>
 <br>
 The plan is that we add simpler instructions here, for our specific setup.<br>
